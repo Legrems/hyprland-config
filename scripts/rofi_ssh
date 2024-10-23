@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+# Import Current Theme
+DIR="$HOME/.config/hypr"
+RASI="$DIR/rofi/runner.rasi"
+TERMINAL="$DIR/scripts/alacritty"
+
+# Run
+rofi \
+    -show ssh \
+    -terminal ${TERMINAL} \
+	-theme ${RASI}
