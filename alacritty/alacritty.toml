@@ -6,6 +6,7 @@
 ## GENERAL --------------------------------------------------------
 
 ## Import additional configuration files.
+[general]
 import = ["~/.config/hypr/alacritty/colors.toml", "~/.config/hypr/alacritty/fonts.toml"]
 
 ## You can set shell.program to the path of your favorite shell, e.g. /bin/zsh.

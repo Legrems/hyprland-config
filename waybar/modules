@@ -121,7 +121,7 @@
            
 	// waybar-custom
     "custom/themes": {
-        "format": "",
+        "format": " ",
         "tooltip": false,
         "on-click": "$HOME/.config/hypr/theme/theme.sh --pywal",
         "on-click-right": "$HOME/.config/hypr/theme/theme.sh --default",
@@ -136,7 +136,7 @@
     },
 
     "custom/power": {
-         "format": "襤",
+         "format": "⏻",
          "tooltip": false,
          //"on-click": "$HOME/.config/hypr/scripts/wlogout",
          "on-click": "$HOME/.config/hypr/scripts/rofi_powermenu",
@@ -290,8 +290,8 @@
     "idle_inhibitor": {
          "format": "{icon}",
          "format-icons": {
-             "activated": "",
-             "deactivated": ""
+             "activated": " ",
+             "deactivated": " "
          },
          "timeout": 30
     },
@@ -307,11 +307,11 @@
              "3": "",
              "4": "",
              "5": "",
-             "6": "漣",
+             "6": "■",
              "7": "",
              "8": "",
              "9": "",
-             "10": "ﳴ",
+             "10": "∇",
              "urgent": "",
              "focused": "",
              "default": ""
