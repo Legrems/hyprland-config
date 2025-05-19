@@ -33,4 +33,4 @@ fi
 nm-applet --indicator &
 
 # Start mpd
-exec mpd &
+# exec mpd &
