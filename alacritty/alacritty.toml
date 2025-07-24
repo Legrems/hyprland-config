@@ -4,7 +4,7 @@
 ## It's a very basic and simple config file, for full configuration, Run `man 5 alacritty`
 
 ## GENERAL --------------------------------------------------------
-
+[general]
 ## Import additional configuration files.
 import = ["~/.config/hypr/alacritty/colors.toml", "~/.config/hypr/alacritty/fonts.toml"]
 
