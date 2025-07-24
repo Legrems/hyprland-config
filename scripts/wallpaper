@@ -5,6 +5,6 @@
 ## Set Wallpaper in Hyprland
 
 # WALLPAPER='/home/legrems/Pictures/wallpapers/wallpaper_3.jpg'
-WALLPAPER='/home/legrems/Pictures/wallpapers/wallpaper_3.jpg'
+WALLPAPER='/home/legrems/Pictures/wallpapers/PoE - Affliction/BreakerofOaths_2560x1040.png'
 
 swaybg --output '*' --mode fill --image "$WALLPAPER"
